@@ -1,0 +1,106 @@
+[
+    {
+      "id": 0,
+      "title": "Сердце дракона. Часть первая (СИ)",
+      "author": "Боярова Мелина",
+      "image": "https://www.litmir.me/data/Book/0/626000/626280/BC4_1538464731.jpg",
+      "price": 710,
+      "rating": 3
+    },
+    {
+      "id": 1,
+      "title": "Мой Нежный Хищник (СИ)",
+      "author": "Грез Регина",
+      "image": "https://www.litmir.me/data/Book/0/626000/626273/BC4_1538461037.jpg",
+      "price": 500,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "title": "Горных богатств Хозяйка (СИ)",
+      "author": "Савская Елена",
+      "image": "https://www.litmir.me/data/Book/0/626000/626271/BC4_1538460696.jpg",
+      "price": 456,
+      "rating": 8
+    },
+    {
+      "id": 3,
+      "title": "Бухучет на выезде (СИ)",
+      "author": "Константа Людмила",
+      "image": "https://www.litmir.me/data/Book/0/626000/626269/BC4_1538460107.jpg",
+      "price": 769,
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "title": "В мире будущего",
+      "author": "Альберт Генрихович Поустоцкий",
+      "image": "https://www.litmir.me/data/Book/0/626000/626350/BC4_1538508906.jpg",
+      "price": 578,
+      "rating": 6
+    },
+    {
+      "id": 5,
+      "title": "Другой мир",
+      "author": "Альберг",
+      "image": "https://www.litmir.me/data/Book/0/626000/626266/BC4_1538454654.jpg",
+      "price": 500,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "title": "Притворись, что любишь (СИ)",
+      "author": "Горская Ева",
+      "image": "https://www.litmir.me/data/Book/0/626000/626267/BC4_1538454676.jpg",
+      "price": 600,
+      "rating": 2
+    },
+    {
+      "id": 7,
+      "title": "Силикус (СИ)",
+      "author": "Рэйвэн Джонни",
+      "image": "https://www.litmir.me/data/Book/0/626000/626265/BC4_1538453873.jpg",
+      "price": 780,
+      "rating": 6
+    },
+    {
+      "id": 8,
+      "title": "Ангел во тьме (СИ)",
+      "author": "May Catelyn",
+      "image": "https://www.litmir.me/data/Book/0/626000/626264/BC4_1538452735.jpg",
+      "price": 800,
+      "rating": 7
+    },
+    {
+      "id": 9,
+      "title": "Аколит (СИ)",
+      "author": "Плотников Сергей Александрович",
+      "image": "https://www.litmir.me/data/Book/0/626000/626257/BC4_1538426720.jpg",
+      "price": 780,
+      "rating": 3
+    },
+    {
+      "id": 10,
+      "title": "Баг Реальности (ex Демон-соблазнитель) (СИ)",
+      "author": "Георгиевич Ярослав",
+      "image": "https://www.litmir.me/data/Book/0/626000/626211/BC4_1538407035.jpg",
+      "price": 300,
+      "rating": 3
+    },
+    {
+      "id": 11,
+      "title": "Факультет боевых магов (СИ)",
+      "author": "Мартюшова Регина Юрьевна",
+      "image": "https://www.litmir.me/data/Book/0/626000/626255/BC4_1538424926.jpg",
+      "price": 455,
+      "rating": 5
+    },
+    {
+      "id": 12,
+      "title": "Я здесь остаюсь... (СИ)",
+      "author": "Форчунов Вик",
+      "image": "https://www.litmir.me/data/Book/0/626000/626254/BC4_1538423271.jpg",
+      "price": 450,
+      "rating": 2
+    }
+]
