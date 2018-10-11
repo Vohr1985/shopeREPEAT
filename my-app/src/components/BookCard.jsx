@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
-import { Card, Icon, Image } from 'semantic-ui-react'
+import { Card, Icon, Image, Button, Segment } from 'semantic-ui-react'
 
-const BookCard = ({ title, author, price, image}) => (
+const BookCard = book => {
+    const { title, author, price, image, addToCart, addedCount} = book;
+    return (
     <Card>
         <Image src={image} />
         <Card.Content>
@@ -20,6 +22,15 @@ const BookCard = ({ title, author, price, image}) => (
                 {price}
             </a>
         </Card.Content>
+        <Segment inverted>
+            <div className={'ui center aligned container'}>
+                <Button onClick={addToCart.bind(this, book )} inverted>
+                    Добавить в корзину {addedCount > 0 && `(${addedCount})`}
+                </Button>
+            </div>
+        </Segment>
     </Card>
-);
+  )
+};
+
 export default BookCard;

@@ -57,15 +57,15 @@
     },
     {
       "id": 7,
-      "title": "Силикус (СИ)",
+      "title": "силикус (СИ)",
       "author": "Рэйвэн Джонни",
       "image": "https://www.litmir.me/data/Book/0/626000/626265/BC4_1538453873.jpg",
-      "price": 780,
+      "price": 746,
       "rating": 6
     },
     {
       "id": 8,
-      "title": "Ангел во тьме (СИ)",
+      "title": "1985",
       "author": "May Catelyn",
       "image": "https://www.litmir.me/data/Book/0/626000/626264/BC4_1538452735.jpg",
       "price": 800,
@@ -76,13 +76,13 @@
       "title": "Аколит (СИ)",
       "author": "Плотников Сергей Александрович",
       "image": "https://www.litmir.me/data/Book/0/626000/626257/BC4_1538426720.jpg",
-      "price": 780,
+      "price": 760,
       "rating": 3
     },
     {
       "id": 10,
-      "title": "Баг Реальности (ex Демон-соблазнитель) (СИ)",
-      "author": "Георгиевич Ярослав",
+      "title": "1957) (СИ)",
+      "author": "георгиевич Ярослав",
       "image": "https://www.litmir.me/data/Book/0/626000/626211/BC4_1538407035.jpg",
       "price": 300,
       "rating": 3
@@ -100,7 +100,55 @@
       "title": "Я здесь остаюсь... (СИ)",
       "author": "Форчунов Вик",
       "image": "https://www.litmir.me/data/Book/0/626000/626254/BC4_1538423271.jpg",
-      "price": 450,
+      "price": 420,
       "rating": 2
+    },
+    {
+      "id": 13,
+      "title": "Родовой замок Вальтер (СИ)",
+      "author": "Севастьянова Екатерина",
+      "image": "https://www.litmir.me/data/Book/0/626000/626701/BC4_1539070568.jpg",
+      "price": 499,
+      "rating": 7
+    },
+    {
+      "id": 14,
+      "title": "Проникнуть в ее стаю (ЛП)",
+      "author": "Иствик Доминик",
+      "image": "https://www.litmir.me/data/Book/0/626000/626700/BC4_1539070325.jpg",
+      "price": 975,
+      "rating": 9
+    },
+    {
+      "id": 15,
+      "title": "Попаданец наоборот, или Эльф в деле",
+      "author": "Танари Таша",
+      "image": "https://www.litmir.me/data/Book/0/626000/626699/BC4_1539070007.jpg",
+      "price": 470,
+      "rating": 3
+    },
+    {
+      "id": 16,
+      "title": "Хейтер (СИ)",
+      "author": "Тимина Светлана Extazyflame",
+      "image": "https://www.litmir.me/data/Book/0/626000/626698/BC4_1539068478.jpg",
+      "price": 650,
+      "rating": 7
+    },
+    {
+      "id": 17,
+      "title": "Босс-обманщик, или Кто кого? (СИ)",
+      "author": "Обская Ольга",
+      "image": "https://www.litmir.me/data/Book/0/626000/626694/BC4_1539031638.jpg",
+      "price": 720,
+      "rating": 5
+    },
+    {
+      "id": 18,
+      "title": "Верь мне (СИ)",
+      "author": "Счастливая Вера",
+      "image": "https://www.litmir.me/data/Book/0/626000/626693/BC4_1539031520.jpg",
+      "price": 768,
+      "rating": 8
     }
 ]
